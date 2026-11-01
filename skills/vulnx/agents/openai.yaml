@@ -1,0 +1,4 @@
+interface:
+  display_name: "VulnX"
+  short_description: "Search CVEs and prioritize vulnerability intelligence"
+  default_prompt: "Use $vulnx to look up CVEs and summarize affected versions, exploitation signals, and remediation references."
